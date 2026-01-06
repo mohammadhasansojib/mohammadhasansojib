@@ -1,6 +1,6 @@
 # Mohammad Hasan Sojib
 
-I am currently a third year student studying Computer Science and Engineering in a private university in Bangladesh.
+I am currently a third year student completing my BSc program in Computer Science and Engineering from a private university in Bangladesh.
 
 ## Current Skills
 - HTML
