@@ -1,4 +1,16 @@
-### Hi there 👋
+# Mohammad Hasan Sojib
+
+I am currently a third year student studying Computer Science and Engineering in a private university in Bangladesh.
+
+## Current Skills
+- HTML
+- CSS
+- Javascript
+- React JS
+- Tailwind CSS
+- NodeJS
+- Express JS
+- MongoDB & MySQL
 
 <!--
 **mohammadhasansojib/mohammadhasansojib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
