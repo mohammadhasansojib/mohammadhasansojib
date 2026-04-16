@@ -10,7 +10,7 @@ I am currently a third year student completing my BSc program in Computer Scienc
 - Tailwind CSS
 - NodeJS
 - Express JS
-- MongoDB & MySQL
+- MongoDB & PostgreSQL
 
 <!--
 **mohammadhasansojib/mohammadhasansojib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
