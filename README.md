@@ -1,29 +1,22 @@
 # Mohammad Hasan Sojib
+## Full-Stack Developer
+Gazipur, Dhaka, Bangladesh | +8801882521430 | mohammadhasansojib@gmail.com | [LinkedIn](https://www.linkedin.com/in/iamhasansojib/) | [Github](https://github.com/mohammadhasansojib) | [Portfolio](https://sojib.vercel.app)
 
-I am currently a final year student completing my BSc program in Computer Science and Engineering from a private university in Bangladesh.
+### Objective
+Full-Stack developer with a system-level approach to problem solving focused on understanding architecture, data flow, and component interactions, while writing clean, efficient and maintainable code.
 
-## Current Skills
-- HTML
-- CSS
-- Javascript
-- React JS
-- Tailwind CSS
-- TypeScript
-- NodeJS
-- Express JS
-- MongoDB & PostgreSQL
+### Education
+**Bachelor of Science in Computer Science and Engineering** Uttara University, Dhaka, Bangladesh  
+Expected Graduation: April 2027  
+Current CGPA: 3.30/4.00  
+*Relevant Coursework:* Data Structure and Algorithm, Web Programming, Database Management, Software Engineering
 
-<!--
-**mohammadhasansojib/mohammadhasansojib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technical Skills
+* **Programming Languages:** TypeScript, JavaScript, HTML, CSS, SQL
+* **Backend:** Node.js, Express.js, REST APIs, JWT Authentication, RBAC
+* **Database:** PostgreSQL, MongoDB, Prisma ORM
+* **Frontend:** React, Tailwind CSS
+* **Tools:** Git, GitHub, Postman
+* **Concepts:** Authentication, Refresh Tokens, CRUD Operations, User Management
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
