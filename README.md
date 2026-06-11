@@ -8,6 +8,7 @@ I am currently a final year student completing my BSc program in Computer Scienc
 - Javascript
 - React JS
 - Tailwind CSS
+- TypeScript
 - NodeJS
 - Express JS
 - MongoDB & PostgreSQL
