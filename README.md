@@ -1,6 +1,6 @@
 # Mohammad Hasan Sojib
 ## Full-Stack Developer
-Gazipur, Dhaka, Bangladesh | +8801882521430 | mohammadhasansojib@gmail.com | [LinkedIn](https://www.linkedin.com/in/iamhasansojib/) | [Github](https://github.com/mohammadhasansojib) | [Portfolio](https://sojib.vercel.app)
+Gazipur, Dhaka, Bangladesh | +8801882521430 | mohammadhasansojib@gmail.com | [LinkedIn](https://www.linkedin.com/in/iamhasansojib/)
 
 ### Objective
 Full-Stack developer with a system-level approach to problem solving focused on understanding architecture, data flow, and component interactions, while writing clean, efficient and maintainable code.
