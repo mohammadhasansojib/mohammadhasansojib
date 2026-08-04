@@ -57,16 +57,16 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/mohammadhasansojib" target="_blank">
+  <a href="https://www.linkedin.com/in/iamhasansojib" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mohammadhasansojib.dev" target="_blank">
+  <a href="https://sojib.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:mohammadhasansojib@example.com">
+  <a href="mailto:mohammadhasansojib@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/mohammadhasansojib" target="_blank">
+  <a href="https://www.facebook.com/iamhasansojib" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
